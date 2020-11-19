@@ -101,3 +101,9 @@ body{
     width:100%;
   }
 }
+@media only screen and (max-width:767px) {
+  /* For medium tablets: */
+    .links,.NavBar,.project1,.project2,.project3,.project4,.project5,.projects,.body,.MySkills,.MySkills2,.fitimage,.title {
+    width:100%;
+  }
+}
