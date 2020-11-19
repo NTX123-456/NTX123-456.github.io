@@ -1,0 +1,88 @@
+.title{
+    padding: 50px;
+    text-align: center;
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/aqua-d9b59c89.png");
+    color: white;
+    flex-wrap:wrap;
+  }
+.NavBar {
+   display:flex;
+  
+   text-align: left;
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGz6TD3QVO8vnO3Qonx62G4YARrFlOFX6-kw&usqp=CAU");
+   flex-wrap:wrap;
+
+  }
+.intro{
+  display:flex;
+  
+  text-align:center;
+  flex-wrap:wrap;
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/aqua-d9b59c89.png");
+}
+.introheader{
+  display:flex;
+  background-color: #41b3a3;
+  flex-wrap:wrap;
+  
+  
+}
+.appdev{
+  display:flex;
+  background-color:  #41b3a3;
+  text-align:center;
+  flex-wrap:wrap;
+}
+
+.ig {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+  overflow: hidden;
+  flex-wrap:wrap;
+ 
+}
+.interests{
+  
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+  overflow:hidden;
+  display: inline-block;
+  flex-wrap:wrap;
+}
+.softwares{
+  
+  width: 23.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+  display: inline-block;
+  overflow: hidden;
+  flex-wrap:wrap;
+  
+}
+.Contact{
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+  flex-wrap:wrap;
+  text-align:left;
+  
+  
+}
+ul {
+  text-align: left;
+  list-style-position: inside;
+  flex-wrap:wrap;
+}
+
+body{
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
+}
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+    .ul,.Contact,.softwares,.interests,.ig,.intro,.introheader,.title,.appdev,.NavBar,.body {
+    width:100%;
+  }
+}

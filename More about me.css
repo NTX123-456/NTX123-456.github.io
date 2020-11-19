@@ -1,0 +1,111 @@
+.title{
+    padding: 50px;
+    text-align: center;
+    background-image: url("https://thumbs.dreamstime.com/b/purple-vibrant-illustration-created-website-blog-background-phone-smartphone-pc-themes-purple-vibrant-web-site-181217929.jpg");
+    color: white;
+    flex-wrap:wrap;
+  }
+  .NavBar {
+    display:flex;
+   
+    text-align: left;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGz6TD3QVO8vnO3Qonx62G4YARrFlOFX6-kw&usqp=CAU");
+    flex-wrap:wrap;
+ 
+   }
+ .education{
+    padding: 50px;
+    text-align: center;
+    background-image: url("https://thumbs.dreamstime.com/b/purple-vibrant-illustration-created-website-blog-background-phone-smartphone-pc-themes-purple-vibrant-web-site-181217929.jpg");
+    color: white;
+    flex-wrap:wrap;
+ }
+ .Primary{
+ background-color: #e8a87c;
+ width: 300px;
+ margin-bottom: 16px;
+ padding: 1px;
+ flex-wrap:wrap;
+ text-align:center;
+ justify-content: space-between;
+ display: inline-block
+ }
+.fitimage{
+    max-width:100%;
+    
+}
+.Secondary{
+  width: 300px;
+  margin-bottom: 16px;
+  padding: 1px;
+  
+  display: inline-block;
+  flex-wrap:wrap;
+  text-align:center;
+  justify-content: space-between;
+  background-color: rgb(4, 250, 4);
+}
+.Tertiary{
+    width: 300px;
+    margin-bottom: 16px;
+    padding: 1px;
+    height:auto;
+    display: inline-block;
+    flex-wrap:wrap;
+    text-align:center;
+    justify-content: space-between;
+    background-color: rgb(0, 204, 255);  
+}
+.Uni{
+  width: 300px;
+  margin-bottom: 16px;
+  padding: 2px;
+  height:auto;
+  display: inline-block;
+  flex-wrap:wrap;
+  text-align:center;
+  justify-content: space-between;
+  background-color: orange;  
+}
+.Work{
+  width:250px;
+  margin-bottom: 16px;
+  padding: 2px;
+  height:auto;
+  display: inline-block;
+  flex-wrap:wrap;
+  text-align:center;
+  justify-content: space-between;
+  background-color: yellow;  
+}
+.workex{
+  width: auto;
+  margin-bottom: 16px;
+  padding: 2px;
+  height:auto;
+  display:inline-block;
+  flex-wrap:wrap;
+  text-align:center;
+  justify-content: space-between;
+  background-image: url("https://thumbs.dreamstime.com/b/purple-vibrant-illustration-created-website-blog-background-phone-smartphone-pc-themes-purple-vibrant-web-site-181217929.jpg");  
+}
+.futureplans{
+  width: auto;
+  margin-bottom: 16px;
+  padding: 2px;
+  height:auto;
+  display:inline-block;
+  flex-wrap:wrap;
+  text-align:center;
+  justify-content: space-between;
+  background-image: url("https://thumbs.dreamstime.com/b/purple-vibrant-illustration-created-website-blog-background-phone-smartphone-pc-themes-purple-vibrant-web-site-181217929.jpg");
+}
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+  .futureplans,.workex,.Work,.Uni,.Tertiary,.Secondary,.Primary,.education,.NavBar,.title,.fitimage,.body{
+    width:100%;
+  }
+}
+body{
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
+}
