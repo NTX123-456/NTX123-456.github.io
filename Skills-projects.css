@@ -20,7 +20,7 @@
     padding: 0 8px;
     display: inline-block;
     overflow: hidden;
-    flex-wrap:wrap;
+    flex-wrap:nowrap;
     background-color:  #2f2fa2;
   }
   .fitimage{
@@ -35,7 +35,7 @@
  padding: 0 8px;
  display: inline-block;
  overflow: hidden;
- flex-wrap:wrap;
+ flex-wrap:nowrap;
  background-color: #97caef;
 }
 body{
