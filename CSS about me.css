@@ -86,3 +86,9 @@ body{
     width:100%;
   }
 }
+@media only screen and (max-width:767px) {
+  /* For Medium Tablets: */
+    .ul,.Contact,.softwares,.interests,.ig,.intro,.introheader,.title,.appdev,.NavBar,.body {
+    width:100%;
+  }
+}
