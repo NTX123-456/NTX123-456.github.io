@@ -100,12 +100,19 @@
   justify-content: space-between;
   background-image: url("https://thumbs.dreamstime.com/b/purple-vibrant-illustration-created-website-blog-background-phone-smartphone-pc-themes-purple-vibrant-web-site-181217929.jpg");
 }
+
+body{
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
+}
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
   .futureplans,.workex,.Work,.Uni,.Tertiary,.Secondary,.Primary,.education,.NavBar,.title,.fitimage,.body{
     width:100%;
   }
 }
-body{
-  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
+@media only screen and (max-width:767px) {
+  /* For Medium tablets: */
+  .futureplans,.workex,.Work,.Uni,.Tertiary,.Secondary,.Primary,.education,.NavBar,.title,.fitimage,.body{
+    width:100%;
+  }
 }
