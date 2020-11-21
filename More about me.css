@@ -1,26 +1,24 @@
-.title{
+.title{ /*This is a flexbox for the title with a background image*/
     padding: 50px;
     text-align: center;
     background-image: url("https://thumbs.dreamstime.com/b/purple-vibrant-illustration-created-website-blog-background-phone-smartphone-pc-themes-purple-vibrant-web-site-181217929.jpg");
     color: white;
     flex-wrap:wrap;
   }
-  .NavBar {
+  .NavBar{ /*This is a flexbox for the navigation bar*/
     display:flex;
-   
     text-align: left;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGz6TD3QVO8vnO3Qonx62G4YARrFlOFX6-kw&usqp=CAU");
     flex-wrap:wrap;
- 
-   }
- .education{
+{ 
+.education{ /*This is a flexbox for the education section*/
     padding: 50px;
     text-align: center;
     background-image: url("https://thumbs.dreamstime.com/b/purple-vibrant-illustration-created-website-blog-background-phone-smartphone-pc-themes-purple-vibrant-web-site-181217929.jpg");
     color: white;
     flex-wrap:wrap;
  }
- .Primary{
+ .Primary{ /*This is a flexbox for my primary education*/
  background-color: #e8a87c;
  width: 300px;
  margin-bottom: 16px;
@@ -29,23 +27,21 @@
  text-align:center;
  justify-content: space-between;
  display: inline-block
- }
-.fitimage{
+ }   
+.fitimage{ /*This is a flexbox to fit the images*/
     max-width:100%;
-    
-}
-.Secondary{
+}        
+.Secondary{ /*This is a flexbox for my Secondary education*/
   width: 300px;
   margin-bottom: 16px;
   padding: 1px;
-  
   display: inline-block;
   flex-wrap:wrap;
   text-align:center;
   justify-content: space-between;
   background-color: rgb(4, 250, 4);
 }
-.Tertiary{
+.Tertiary{  /*This is a flexbox for my Tertiary education*/
     width: 300px;
     margin-bottom: 16px;
     padding: 1px;
@@ -56,7 +52,7 @@
     justify-content: space-between;
     background-color: rgb(0, 204, 255);  
 }
-.Uni{
+.Uni{  /*This is a flexbox for my University education*/
   width: 300px;
   margin-bottom: 16px;
   padding: 2px;
@@ -67,7 +63,7 @@
   justify-content: space-between;
   background-color: orange;  
 }
-.Work{
+.Work{  /*This is a flexbox for my work experience*/
   width:250px;
   margin-bottom: 16px;
   padding: 2px;
@@ -78,7 +74,7 @@
   justify-content: space-between;
   background-color: yellow;  
 }
-.workex{
+.workex{  /*This is a flexbox for my work experience*/
   width: auto;
   margin-bottom: 16px;
   padding: 2px;
@@ -89,7 +85,7 @@
   justify-content: space-between;
   background-image: url("https://cdn.wallpapersafari.com/87/98/1Z6rbH.jpg");  
 }
-.futureplans{
+.futureplans{  /*This is a flexbox for my Future plans*/
   width: auto;
   margin-bottom: 16px;
   padding: 2px;
@@ -100,19 +96,23 @@
   justify-content: space-between;
   background-image: url("https://cdn.wallpapersafari.com/87/98/1Z6rbH.jpg");
 }
-
-body{
+body{  /*This is a flexbox for my background for the page*/
   background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
 }
-@media only screen and (max-width:620px) {
+@media only screen and (max-width:620px) {  /*This is to adjust the flexboxes into the sizes mobile phone screens*/
   /* For mobile phones: */
   .futureplans,.workex,.Work,.Uni,.Tertiary,.Secondary,.Primary,.education,.NavBar,.title,.fitimage,.body{
     width:100%;
   }
 }
-@media only screen and (max-width:767px) {
+@media only screen and (max-width:767px) {  /*This is to adjust the flexboxes into the sizes medium tablet screens*/
   /* For Medium tablets: */
   .futureplans,.workex,.Work,.Uni,.Tertiary,.Secondary,.Primary,.education,.NavBar,.title,.fitimage,.body{
     width:100%;
   }
 }
+
+
+
+
+ 
