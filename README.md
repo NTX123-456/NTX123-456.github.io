@@ -1,3 +1,4 @@
+This website is based on project example idea 2 (creating a personal portfolio site)
 This is a brief summary of the use and targeted audience of this website
 
 This is a website targeted at future employers in the IT industry and Companies who are looking for potential software developers. (user Audience)
@@ -6,7 +7,7 @@ I have accumulated over the years of working as a software developer. (Value pro
 
 This website is catered to employers who would want to hire potential software developers for their company (What is the website Catered for?)
 This website serves as a self promoting and introductory website to convince more employers to hire me to become the software developer of their company
-
+This website also serves as a platform to store and show future projects that I will take part in.
 
 
 External source code used (image links/website links used):
