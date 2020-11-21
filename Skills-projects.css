@@ -1,17 +1,17 @@
-.title{
+.title{  /*This is a flexbox for the title with a background image*/
     padding: 50px;
     text-align: center;
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/aqua-d9b59c89.png");
     color: white;
     flex-wrap:wrap;
   }
-  .NavBar {
+  .NavBar {   /*This is a flexbox for the navigation bar*/
     display:flex;
     text-align: left;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGz6TD3QVO8vnO3Qonx62G4YARrFlOFX6-kw&usqp=CAU");
     flex-wrap:wrap;
   }
-  .MySkills{
+  .MySkills{   /*This is a flexbox that fits in my skillset gained over the years*/
     width: 23.3%;
     margin-bottom: 16px;
     padding: 0 8px;
@@ -20,10 +20,10 @@
     flex-wrap:nowrap;
     background-color:  #3FEEE6;
   }
-  .fitimage{
+  .fitimage{   /*This is a flexbox to fit the images*/
     max-width:100%;
 }  
-.MySkills2{
+.MySkills2{  /*This is a flexbox that fits in my softwares I mastered over the years*/
  width: 23.3%;
  margin-bottom: 16px;
  padding: 0 8px;
@@ -32,10 +32,10 @@
  flex-wrap:nowrap;
  background-color: #97caef;
 }   
-body{
+body{   /*This is a flexbox for my background for the page*/
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
 }
-.projects{
+.projects{   /*This is a flexbox for my first project and description*/
     width: 23.3%;
     margin-bottom: 16px;
     padding: 0 8px;
@@ -44,7 +44,7 @@ body{
     flex-wrap:wrap;
     background-color: #cafafe;  
 }
-.project2{
+.project2{  /*This is a flexbox for my second project and description*/
   width: 23.3%;
   margin-bottom: 16px;
   padding: 0 8px;
@@ -53,7 +53,7 @@ body{
   flex-wrap:wrap;
   background-color: #cafafe;  
 }
-.project3{
+.project3{   /*This is a flexbox for my third project and description*/
   width: 23.3%;
   margin-bottom: 16px;
   padding: 0 8px;
@@ -62,7 +62,7 @@ body{
   flex-wrap:wrap;
   background-color:  #cafafe;  
 }
-.project4{
+.project4{   /*This is a flexbox for my fourth project and description*/
   width: 23.3%;
   margin-bottom: 16px;
   padding: 0 8px;
@@ -71,7 +71,7 @@ body{
   flex-wrap:wrap;
   background-color: #cafafe;  
 }
-.project5{
+.project5{   /*This is a flexbox for my fifth and last project and description*/
   width: 23.3%;
   margin-bottom: 16px;
   padding: 0 8px;
@@ -80,7 +80,7 @@ body{
   flex-wrap:wrap;
   background-color: #cafafe;  
 }
-.links{
+.links{   /*This is a flexbox for the links to my projects*/
   width: 23.3%;
   margin-bottom: 16px;
   padding: 0 8px;
@@ -89,13 +89,13 @@ body{
   flex-wrap:wrap;
   background-color: #cafafe;  
 }
-@media only screen and (max-width:620px) {
+@media only screen and (max-width:620px) {   /*This is to adjust the flexboxes into the sizes mobile phone screens*/
   /* For mobile phones: */
     .links,.NavBar,.project1,.project2,.project3,.project4,.project5,.projects,.body,.MySkills,.MySkills2,.fitimage,.title {
     width:100%;
   }
 }
-@media only screen and (max-width:767px) {
+@media only screen and (max-width:767px) {  /*This is to adjust the flexboxes into the sizes medium tablet screens*/
   /* For medium tablets: */
     .links,.NavBar,.project1,.project2,.project3,.project4,.project5,.projects,.body,.MySkills,.MySkills2,.fitimage,.title {
     width:100%;
