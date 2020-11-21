@@ -52,3 +52,6 @@ On my More about me page(image links)
 8.https://thumbs.dreamstime.com/b/future-plans-yellow-light-box-billboard-blue-sky-background-future-plans-billboard-113218893.jpg
 9.https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqPxE8H9kkCF48uwqL3CBSscqwWYsSbfr51Q&usqp=CAU
 10.https://cdn.wallpapersafari.com/87/98/1Z6rbH.jpg
+
+External Website used for projects description:
+https://www.upgrad.com/blog/software-development-project-ideas-topics-for-beginners/
