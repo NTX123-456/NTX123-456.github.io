@@ -7,14 +7,11 @@
   }
   .NavBar {
     display:flex;
-   
     text-align: left;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGz6TD3QVO8vnO3Qonx62G4YARrFlOFX6-kw&usqp=CAU");
     flex-wrap:wrap;
- 
-   }
-   .MySkills{
-  
+  }
+  .MySkills{
     width: 23.3%;
     margin-bottom: 16px;
     padding: 0 8px;
@@ -25,11 +22,8 @@
   }
   .fitimage{
     max-width:100%;
-    
-}
-
+}  
 .MySkills2{
-
  width: 23.3%;
  margin-bottom: 16px;
  padding: 0 8px;
@@ -37,7 +31,7 @@
  overflow: hidden;
  flex-wrap:nowrap;
  background-color: #97caef;
-}
+}   
 body{
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
 }
@@ -106,4 +100,9 @@ body{
     .links,.NavBar,.project1,.project2,.project3,.project4,.project5,.projects,.body,.MySkills,.MySkills2,.fitimage,.title {
     width:100%;
   }
-}
+}   
+  
+
+
+
+
