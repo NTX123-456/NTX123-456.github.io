@@ -16,7 +16,7 @@
     width: 100%;
     margin-bottom: 16px;
     padding: 0 8px;
-    flex-wrap:nowrap;
+    flex-wrap:wrap;
     text-align:center;
     background-image: url("https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png");
     margin: auto;
