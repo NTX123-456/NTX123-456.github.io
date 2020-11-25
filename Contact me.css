@@ -37,7 +37,7 @@ body{ /*This is a flexbox for background image*/
 }
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
-    .form,.input,.Userdetails,.NavBar,.Heading.body {
+    .form,.input,.Userdetails,.NavBar,.Heading,.body {
     width:100%;
   }
 } 
