@@ -3,9 +3,9 @@ This is a brief summary of the use and targeted audience of this website
 
 This is a website targeted at future employers in the IT industry and Companies who are looking for potential software developers. (user Audience)
 This website provides different forms of information about myself, such as a background of myself,my past education and work experience and the skills and projects 
-I have accumulated over the years of working as a software developer. (Value providing to user audience)
+I have accumulated over the years of working as a software developer. The information given is for the interviwers to easily access my skills and work experience before making a decision to hire me. Projects are shown to boost my working experience as a experienced software developer (Value providing to user audience)
 
-This website is catered to employers who would want to hire potential software developers for their company (What is the website Catered for?)
+This website is catered to employers who would want to hire potential  experienced software developers for their company (What is the website Catered for?)
 This website serves as a self promoting and introductory website to convince more employers to hire me to become the software developer of their company
 This website also serves as a platform to store and show future projects that I will take part in.
 
