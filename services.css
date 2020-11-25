@@ -46,7 +46,7 @@ body{
 }
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
-    .ul,.Contact,.softwares,.interests,.ig,.intro,.introheader,.title,.appdev,.NavBar,.body {
+    .NavBar,.Service3.Service2,.Heading,.body,.Service1 {
     width:100%;
   }
 } 
