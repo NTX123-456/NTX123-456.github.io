@@ -52,7 +52,13 @@ body{ /*This is a flexbox for background image*/
   }
 .fitimage{   /*This is a flexbox to fit the images*/
     max-width:30%;
-}  
+}
+@media only screen and (max-width:767px) {  /*This is to adjust the flexboxes into the sizes medium tablet screens*/
+  /* For Medium tablets: */
+  .NavBar,.Service3.Service2,.Heading,.body,.Service1{
+    width:100%;
+  }
+} 
  
 
     
