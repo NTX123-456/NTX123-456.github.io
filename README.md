@@ -53,5 +53,17 @@ On my More about me page(image links)
 9.https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqPxE8H9kkCF48uwqL3CBSscqwWYsSbfr51Q&usqp=CAU
 10.https://cdn.wallpapersafari.com/87/98/1Z6rbH.jpg
 
+
+On my Services Page:
+1.https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg
+2.https://mk0wittysparksm75pi6.kinstacdn.com/wp-content/uploads/2019/05/software-maintenance-system-upgrade.jpg
+3.https://www.addsys.com/wp-content/uploads/2018/10/Blog_SoftwareUpgrade_A.jpg
+4.https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png
+5.https://assets.justinmind.com/wp-content/uploads/2020/02/website-background-design-guide.png
+
+On my Contact me page:
+1.https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGz6TD3QVO8vnO3Qonx62G4YARrFlOFX6-kw&usqp=CAU
+2.https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png
+3.https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png
 External Website used for projects description:
 https://www.upgrad.com/blog/software-development-project-ideas-topics-for-beginners/
