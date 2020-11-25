@@ -40,10 +40,13 @@ body{
     flex-wrap:nowrap;
     display:inline-block;
     background-image: url("https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png")
-}   
+}
+.fitimage{   /*This is a flexbox to fit the images*/
+    max-width:100%;
+}  
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
-    .NavBar,.Service3.Service2,.Heading,.body,.Service1 {
+    .NavBar,.Service3.Service2,.Heading,.body,.Service1.fitimage {
     width:100%;
   }
 } 
