@@ -51,7 +51,7 @@ body{
     }
   }
 .fitimage{   /*This is a flexbox to fit the images*/
-    max-width:100%;
+    max-width:50%;
 }  
  
 
