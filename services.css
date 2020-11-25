@@ -44,7 +44,7 @@ body{ /*This is a flexbox for background image*/
     text-align:center;
     background-image: url("https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png")
 }
-@media only screen and (max-width:620px) {
+@media only screen and (max-width:620px) {  /*This is to adjust the flexboxes into the sizes mobile phone screens*/
     /* For mobile phones: */
       .NavBar,.Service3.Service2,.Heading,.body,.Service1 {
       width:100%;
