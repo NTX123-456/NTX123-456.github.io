@@ -1,17 +1,17 @@
-.Heading{
+.Heading{ /*This is a flexbox for the heading */
  padding: 50px;
  text-align: center;
  background-image: url("https://assets.justinmind.com/wp-content/uploads/2020/02/website-background-design-guide.png");
  color: white;
  flex-wrap:wrap;
 } 
-.NavBar {
+.NavBar { /*This is a flexbox for the navigation bar*/
  display:flex;
  text-align: left;
  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGz6TD3QVO8vnO3Qonx62G4YARrFlOFX6-kw&usqp=CAU");
  flex-wrap:wrap;
  }
- .Userdetails {
+ .Userdetails { /*This is a flexbox for the forms for user to key in their details*/
     float:left;
     width: 100%;
     margin-bottom: 16px;
@@ -22,20 +22,20 @@
     margin: auto;
     height: 500px;
 }
-.form {
+.form { /*This is a flexbox to adjust the size for the forms*/
     width: 550px;
     height: 450px;
     margin: auto;
     position: relative;
 }
-.input {
+.input { /*This is a flexbox to adjust the size for the user input*/
     width: 375px;
     height: 25px;
 }
 body{ /*This is a flexbox for background image*/
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
 }
-@media only screen and (max-width:620px) {
+@media only screen and (max-width:620px) { /*This is to adjust the flexboxes into the sizes mobile phone screens*/
   /* For mobile phones: */
     .form,.input,.Userdetails,.NavBar,.Heading,.body {
     width:100%;
