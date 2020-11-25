@@ -33,14 +33,12 @@ body{
     background-image: url("https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png")
 }   
 .Service3 {
-    
     width: 30.0%;
     margin-bottom: 16px;
     padding: 0 8px;
     overflow: hidden;
     flex-wrap:nowrap;
     display:inline-block;
-   
     background-image: url("https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png")
 }   
 @media only screen and (max-width:620px) {
@@ -49,7 +47,9 @@ body{
     width:100%;
   }
 } 
-   
+       
+    
+
     
 
 
