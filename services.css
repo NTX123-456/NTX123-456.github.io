@@ -15,27 +15,23 @@ body{
     background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
 }
 .Service1 {
-    
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;
     overflow: hidden;
     flex-wrap:nowrap;
     display:inline-block;
-    
     background-image: url("https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png")
-}
+} 
 .Service2 {
-    
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;
     overflow:hidden;
     flex-wrap:nowrap;
     display:inline-block;
-    
     background-image: url("https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png")
-}
+}   
 .Service3 {
     
     width: 30.0%;
@@ -46,13 +42,17 @@ body{
     display:inline-block;
    
     background-image: url("https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png")
-}
+}   
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
     .NavBar,.Service3.Service2,.Heading,.body,.Service1 {
     width:100%;
   }
 } 
+   
+    
+
+
 
     
         
