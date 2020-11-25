@@ -41,3 +41,9 @@ body{ /*This is a flexbox for background image*/
     width:100%;
   }
 } 
+@media only screen and (max-width:767px) {  /*This is to adjust the flexboxes into the sizes medium tablet screens*/
+  /* For Medium tablets: */
+  .form,.input,.Userdetails,.NavBar,.Heading,.body{
+    width:100%;
+  }
+} 
