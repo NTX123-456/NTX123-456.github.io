@@ -25,6 +25,7 @@ body{ /*This is a flexbox for background image*/
 } 
 .Service2 { /*This is a flexbox for my maintaing software service*/
     display:inline-block;
+    width:100%;
     margin-bottom: 16px;
     padding: 0 8px;
     overflow: hidden;
