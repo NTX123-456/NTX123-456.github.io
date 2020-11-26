@@ -34,7 +34,7 @@ body{ /*This is a flexbox for background image*/
 } 
 .Service3 { /*This is a flexbox for my updating existing software service*/
     display:inline-block;
-    width:200%;
+    width:100%;
     margin-bottom: 16px;
     padding: 0 8px;
     overflow: hidden;
