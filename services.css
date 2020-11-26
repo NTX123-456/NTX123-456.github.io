@@ -36,11 +36,11 @@ body{ /*This is a flexbox for background image*/
 }
 .Service3 { /*This is a flexbox for my updating existing software service*/
     display:inline-block;
-    width: auto;
+    
     margin-bottom: 16px;
     padding: 0 8px;
     overflow: hidden;
-    flex-wrap:wrap;
+    flex-wrap:nowrap;
     text-align:center;
     background-image: url("https://i.pinimg.com/originals/4e/0f/68/4e0f683f152c1e201daacd7e6bf6d9b8.png")
 }
