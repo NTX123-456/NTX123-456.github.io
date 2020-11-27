@@ -97,7 +97,6 @@
   justify-content: space-between;
   background-image: url("https://cdn.wallpapersafari.com/87/98/1Z6rbH.jpg");
 }
-
 body{  /*This is a flexbox for my background for the page*/
   background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png")
 }
@@ -113,6 +112,7 @@ body{  /*This is a flexbox for my background for the page*/
     width:100%;
   }
 } 
+
 
 
 
