@@ -10,6 +10,10 @@ This website serves as a self promoting and introductory website to convince mor
 This website also serves as a platform to store and show future projects that I will take part in.</h4>
 
 
+
+
+<h1> Credits </h1>
+
 <h1>External source code used (image links/website links used):</h1>
 
 <h2>On my Skills/projects page:</h2>
